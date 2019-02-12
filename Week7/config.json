@@ -1,0 +1,5 @@
+{
+    "words": "./src/words2",
+    "frequency": "./src/frequency2",
+    "print": "./src/print2"
+}
